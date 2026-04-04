@@ -22,8 +22,8 @@ Replace these with your published links before posting:
 | GitHub Releases | `GitHub releases URL` |
 | Modrinth | `Modrinth project URL` |
 | SpigotMC | `Spigot resource URL` |
-| Source Code | `GitHub repository URL` |
-| Issue Tracker | `GitHub issues URL` |
+| Source Code | [GitHub repo](https://github.com/Ez-Minecraft/EzDonutDiscord) |
+| Issue Tracker | [GitHub issues URL](https://github.com/Ez-Minecraft/EzDonutDiscord/issues) |
 
 ## Requirements
 
@@ -36,7 +36,7 @@ Replace these with your published links before posting:
 
 ## Installation
 
-1. Download the latest plugin jar.
+1. Download the [latest plugin](https://github.com/Ez-Minecraft/EzDonutDiscord/releases) jar.
 2. Place the jar in your server's `/plugins/` folder.
 3. Start or fully restart the server.
 4. Edit `/plugins/EzDonutDiscord/config.yml`.
