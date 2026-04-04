@@ -1,14 +1,14 @@
 # EzDonutDiscord
-
+![DonutDiscord Example](https://raw.githubusercontent.com/Ez-Minecraft/EzDonutDiscord/main/website/assets/image/donutdiscord-example.png)
 EzDonutDiscord is a lightweight Paper and Folia plugin that gives players a polished `/discord` command with a clickable invite, optional action bar feedback, optional sound feedback, and PlaceholderAPI support.
 
 
 ## Features
 
+- Paper and Folia support
 - Clickable Discord invite in chat
 - Configurable chat, hover, action bar, and reload messages
 - Optional notification sound
-- Paper and Folia support
 - Optional PlaceholderAPI support
 - Built-in PlaceholderAPI expansion
 - Simple `/discord reload` admin command
@@ -19,9 +19,10 @@ Replace these with your published links before posting:
 
 | Platform | Link |
 |----------|------|
-| GitHub Releases | `GitHub releases URL` |
 | Modrinth | `Modrinth project URL` |
+| BuiltByBit | `BuiltByBit resource URL` |
 | SpigotMC | `Spigot resource URL` |
+| GitHub Releases | [GitHub releases](https://github.com/Ez-Minecraft/EzDonutDiscord/releases) |
 | Source Code | [GitHub repo](https://github.com/Ez-Minecraft/EzDonutDiscord) |
 | Issue Tracker | [GitHub issues URL](https://github.com/Ez-Minecraft/EzDonutDiscord/issues) |
 
