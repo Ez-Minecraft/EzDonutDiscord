@@ -120,4 +120,4 @@ EzDonutDiscord includes bStats for anonymous usage metrics.
 
 ## Support
 
-Use your issue tracker or project page for bug reports, support, and suggestions.
+Use the [issue tracker](https://github.com/Ez-Minecraft/EzDonutDiscord/issues) for bug reports, support, and suggestions.
