@@ -1,0 +1,26 @@
+name: EzDonutDiscord
+main: com.freedonuts.ezdonutdiscord.EzDonutDiscordPlugin
+version: 1.0.0
+api-version: "1.21"
+author: FreeDonuts
+folia-supported: true
+softdepend: [PlaceholderAPI]
+
+commands:
+  discord:
+    description: Sends the configured Discord message or reloads the config.
+    permission: ezdonutdiscord.discord
+
+permissions:
+  ezdonutdiscord.discord:
+    description: Allows use of /discord.
+    default: true
+  ezdonutdiscord.reload:
+    description: Allows reloading EzDonutDiscord.
+    default: op
+  ezdonutdiscord.admin:
+    description: Grants all EzDonutDiscord permissions.
+    default: op
+    children:
+      ezdonutdiscord.discord: true
+      ezdonutdiscord.reload: true
